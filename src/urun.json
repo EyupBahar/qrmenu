@@ -1,0 +1,93 @@
+[
+    {
+      "ürünResmi": "https://cdn-img.pttavm.com/pimages/592/444/825/be7de1c5-068c-44cd-a8ea-65c707167319.webp?v=201910111530",
+      "başlık": "Scooter",
+      "açıklama": "Elektrikli Scooter",
+      "kategori" : "Kahvalti",
+      "fiyat" : "20.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2amD8h_0Ea5IZVF9d15bap8PixXic6eUeng&s",
+      "başlık": "PC",
+      "açıklama": "Laptop Bilgisayar",
+      "kategori" : "Kahvalti",
+      "fiyat" : "25.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YYHkmhrKE9oSJlmFZFSlwBwr4j00BnXAmg&s",
+      "başlık": "Telsiz Telefon",
+      "açıklama": "Walky Talky Telsiz Telefon",
+      "kategori" : "Kahvalti",
+      "fiyat" : "30.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5WBFXEGjTmWU5fJYtYLQJxSivBne2TRifw&s",
+      "başlık": "Kablo",
+      "açıklama": "USB 2.0 Kablo",
+      "kategori" : "icecek",
+      "fiyat" : "20.00"
+    },
+    {
+      "ürünResmi": "https://i0.wp.com/mediatrend.mediamarkt.com.tr/wp-content/uploads/2020/01/mt_ocak2019_jpeg_raw.jpg?ssl=1",
+      "başlık": "Fotograf Makinesi",
+      "açıklama": "Profesyonel Fotograf Makinesi",
+      "kategori" : "icecek",
+      "fiyat" : "20.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvCFrHekPe6Zd5AZgdyCIGPghnxZDYvm25g&s",
+      "başlık": "Laptop & Foto Makinesi",
+      "açıklama": "Fotografcilik Seti",
+      "kategori" : "tatli",
+      "fiyat" : "20.00"
+    },
+    {
+      "ürünResmi": "https://www.fotografmania.com/wp-content/uploads/2019/05/dadefrdrzdfasedf.jpg",
+      "başlık": "Foto Makinesi",
+      "açıklama": "Digital Foto Makinesi",
+      "kategori" : "tatli",
+      "fiyat" : "40.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdWHpitVTZkLlO4q1vmqXbtEwaO6C-u0dcxg&s",
+      "başlık": "Kamera",
+      "açıklama": "Arac ici kamera",
+      "kategori" : "icecek",
+      "fiyat" : "20.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmjK1Nft6ZiSLYZZLOURxDj9dHLm-ZSozYw&s",
+      "başlık": "Kulaklik",
+      "açıklama": "Kulak üstü oyuncu kulakligi",
+      "kategori" : "icecek",
+      "fiyat" : "50.00"
+    },
+    {
+      "ürünResmi": "https://www.armantasarim.com/wp-content/uploads/2024/05/Armon-Mini-Web-3-500x500.jpg.webp",
+      "başlık": "Hoparlör",
+      "açıklama": "Bluetooth hoparlör",
+      "kategori" : "yemek",
+      "fiyat" : "20.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQD-6CZDLOR1DfX7gkq7oU47yiY1iPpAiIA&s",
+      "başlık": "Mouse",
+      "açıklama": "Kablolu Mouse",
+      "kategori" : "yemek",
+      "fiyat" : "10.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1CyzViFUHTC4llANPGdRljkD_XI9lG2-Qg&s",
+      "başlık": "Bluetooth Kulaklik",
+      "açıklama": "Kulak ici bluetooth kulaklik",
+      "kategori" : "yemek",
+      "fiyat" : "60.00"
+    },
+    {
+      "ürünResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdogMZbgx2yeirFweVsp-u3MHpUZUzFFNIxg&s",
+      "başlık": "Drone",
+      "açıklama": "Multi fonksiyonel dron",
+      "kategori" : "yemek",
+      "fiyat" : "70.00"
+    }
+  ]
