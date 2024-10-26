@@ -21,9 +21,9 @@ const Produkts = ({ setShowCategories }) => {
   };
 
   return (
-    <div style={{width: "100%", display: "flex", flexDirection: "column", alignItems: "center", marginTop : "50px"}}>
+    <div style={{width: "100%", display: "flex", flexDirection: "column", alignItems: "center", marginTop : "90px"}}>
       <h1>{kategoriAdi} Ürünleri</h1>
-      <button onClick={handleBackClick} style={{marginBottom: "20px", padding: "10px"}}>Geri</button>
+      {/* <button onClick={handleBackClick} style={{marginBottom: "20px",cursor: "pointer", padding: "10px"}}>Geri</button> */}
       <div style={{width: "100%", display: "flex", flexDirection: "row", alignItems: "center", justifyContent : "space-around", flexWrap : "wrap"}}>
         {urunler.length > 0 ? (
           urunler.map((urun, index) => (
